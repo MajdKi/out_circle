@@ -1,0 +1,52 @@
+enum SendMessageType {
+  Corporate_Consultations,
+  Corporate_New_business,
+  Corporate_Account_management,
+  Corporate_Follow_up_services,
+  Corporate_services,
+  Corporate_Cladding,
+  Corporate_Providing_qualified_employees,
+  Corporate_Advertising_Services,
+  //
+  Instituts_Consultations,
+  Instituts_New_business,
+  Instituts_Account_management,
+  Instituts_Follow_up_services,
+  Instituts_services,
+  Instituts_Cladding,
+  Instituts_Providing_qualified_employees,
+  Instituts_Advertising_Services,
+  //
+  professional_scientific_Consultations,
+  professional_scientific_New_business,
+  professional_scientific_Account_management,
+  professional_scientific_Follow_up_services,
+  professional_scientific_services,
+  professional_scientific_Cladding,
+  professional_scientific_Providing_qualified_employees,
+  professional_scientific_Advertising_Services,
+  //
+  Handicraft_scientific_Consultations,
+  Handicraft_scientific_New_business,
+  Handicraft_scientific_Account_management,
+  Handicraft_scientific_Follow_up_services,
+  Handicraft_scientific_services,
+  Handicraft_scientific_Cladding,
+  Handicraft_scientific_Providing_qualified_employees,
+  Handicraft_scientific_Advertising_Services,
+  //
+  Individuals_carreer_Finding_appropriate_development_courses,
+  Individuals_carreer_Providing_a_job_opportunity,
+  Individuals_carreer_Providing_consultation_in_current_work,
+  Individuals_carreer_New_business_advice_and_ideas,
+  Individuals_carreer_services,
+  Individuals_carreer_Advertising_Services,
+  //
+  Individuals_Personal_Medical_services,
+  Individuals_Personal_Consultations_on_issues_and_general_problems,
+  Individuals_Personal_Gift_and_occasions_services,
+  Individuals_Personal_Travel_and_reservation_services,
+  Individuals_Personal_Maintenance_Services,
+
+
+} 

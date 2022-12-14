@@ -1,0 +1,20 @@
+import 'package:out_circle/core/constant/app_strings.dart';
+
+Map<String, String> English = {
+  "hi": "hi",
+  "REGISTER": AppStrings.REGISTER,
+  "LOG IN AS \n A VISITOR": AppStrings.LOG_IN_AS_A_VISITOR,
+  "Don't have an account?": AppStrings.Dont_have_an_account,
+  "Forget Password!": AppStrings.Forget_Password,
+  "put you ads here": "PUT YOUR ADS HERE",
+  "Mobil number or E-mail": "Mobil number or E-mail",
+  "Password": "Password",
+  "SING IN": "SING IN",
+  "About us": "About us",
+  "About us body":
+      "Under natural conditions, Success is not considered as a real success or even a skill... while despair under difficult circumstances is evidence of disability...Real success, skills and experience appear only in difficult times and under hard circumstances... Real success is to find something from nothingWe are a team that provides consultative and development services in addition to occupational services for all private business sectors in an out-of-the-ordinary technical way that saves time and efforts for everyone. It also gives valuable and actual results, in addition to challenges in the labor market outside the public circle and the usual routine.To know more details and benefit from our services, please sign in individually according to the field of work, and then specify the field of required service to send a message or an audio recording with a detailed request, and we, in turn, will communicate with you to serve you. Very important notes:- Our main field of work is the consulting aspect- Most of our services are consulting ones with the possibility of applying them to become occupational services according to the agreement.- The occupational and personal services that we provide do not necessarily have to be met because our services need an organized and accurate study to be accepted, so please you have to give us enough time to avoid any problems.- In the event of not being able to meet any request, an official apology will be made within a short period",
+  "Our_goals_and_advantages":
+      "Our goals:\n\n1- Leaving the traditional framework of the work method together with the general circle and keeping away from the usual and traditional routine towards a broad horizon without borders.\n2- Developing the environment of any work in general from its current situation through professional ideas and methods.\n3- Changing the concept of occupational frustration under difficult circumstances and transforming it into permanent practical successes in all conditions.\n4- Changing the concept of exploitation by providing real consultations and services at reasonable and studied prices\n5- Changing the concept of individual work to group work.\n6- Changing the concept of random work for an organized, thoughtful, accurate and purposeful work.\n7- Creating job opportunities for those who deserve it.\nOur Advantages:\n\n1- Saving time and effort for customers by communicating with us in easy ways, anywhere and anytime.\n2- Saving time and effort and the trouble of thinking about general and petty matters within the work by providing consultations and services, organizing and following-up work.\n3- Providing integrated and comprehensive services that meet most of the clients’ occupational and personal needs in one place, which saves the trouble of being distracted for the clients.\n4- Develop business and create new ideas that contribute to generate revenues under all circumstances.\n5- Our most interest is to obtain distinguished results in reality, as we are not satisfied with providing advice and services in verbal terms only.\n6- Diligent follow-up and providing after-sales services\n7- Highlight on the ignored Experienced people and give them their right\n8- Providing personal and humanitarian services ",
+  "contact_us_body":
+      "Website:\n\nEmail:\n\nMobile 1:\n\nMobile 2:\n\nWhatsApp / Telegram:\n\nFacebook:\n\nInstagram:\n\nLinkedIn:\n-------------------------------------\n\nGeneral Manager: \n\n           Jareer Sayed Ahmed\n\nMobile:\n\nWhatsApp:\n\nEmail:"
+};
